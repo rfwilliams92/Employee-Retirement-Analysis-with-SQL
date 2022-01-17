@@ -19,7 +19,7 @@ To determine the number of retiring employees per title (Senior Engineer, Senior
 
 - The employees that met the criteria for Pewlett-Hackard’s mentorship program constituted of about 1549 employees, less than 1% of the company.
 
-##SUMMARY
+## SUMMARY
 As the “silver tsunami” begins to make an impact, Pewlett-Hackard will have to build a robust hiring team and keep the retention rate very high.  Further analysis on existing salaries compared to salaries of the market could draw more employees and further retain existing senior employees.
 
 It would also be worth further analysis to see the age distribution of the current active employees and expanding the age criteria for the mentorship program. The potential mentors vastly outnumber the current number of employees that meet the mentorship criteria.
