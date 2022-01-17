@@ -7,7 +7,11 @@ To determine the number of retiring employees per title (Senior Engineer, Senior
 ## RESULTS
 - There are about 72,500 employees at Pewlett-Hackard that are eligible for retirement, and approximately 50,000 are of a senior position. This is about 30% of the company as a whole and almost 50% of the senior positions respectively.
 
-![This is an image](/active_employees.png) ![This is an image](/retirement_demographics.png)
+### Active Empolyees
+![This is an image](/active_employees.png) 
+
+### Retirement Eligible
+![This is an image](/retirement_demographics.png)
 
 - Specifically for the Senior Engineer position about 93% of current employees are eligible for retirement
 
